@@ -5,6 +5,6 @@ void main()
 {
   int x;
   printf("Enter a decimal value:");
-  scanf("%d",x);
+  scanf("%d",&x);
   printf("%d in Hexadecimal value is %x",x,x);
 }
